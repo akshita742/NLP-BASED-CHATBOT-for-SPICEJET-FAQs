@@ -1,6 +1,6 @@
 # NLP-Based Chatbot for SpiceJet FAQs  
 
-This repository contains my **internship project** where I developed a **rule-based + NLP-powered chatbot** to handle **frequently asked questions (FAQs)** for **SpiceJet Airlines (Domestic Flights)**.  
+This repository contains my **internship project** where I developed a **rule-based + NLP-powered chatbot** to handle **frequently asked questions (FAQs)** for **SpiceJet Airlines **.  
 
 The chatbot is designed to improve customer support by providing quick, automated responses to common queries such as **baggage allowance, cancellations, check-in rules, rescheduling, and general flight information**.  
 
